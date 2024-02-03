@@ -1,23 +1,23 @@
 # NLP & OCR Python Toolkit
-Overview
+Overview<br>
 This Python toolkit provides powerful functionality for Natural Language Processing (NLP) tasks and Optical Character Recognition (OCR) on PDF documents. Utilize various libraries for text extraction, table extraction, and heading extraction.
 
 # Dependencies
 
-Text Extraction:
-pdf2image: pip install pdf2image
+Text Extraction <br> 
+pdf2image: pip install pdf2image<br>
 pytesseract: pip install pytesseract
 
-Table Extraction:
-cv2: pip install opencv-python
-numpy: pip install numpy
-pytesseract: pip install pytesseract
+Table Extraction<br>
+cv2: pip install opencv-python<br>
+numpy: pip install numpy<br>
+pytesseract: pip install pytesseract<br>
 fitz: pip install PyMuPDF
 
-Heading Extraction:
+Heading Extraction<br>
 fitz: pip install PyMuPDF
 
-NLTK Tasks:
+NLTK Tasks<br>
 NLTK: pip install nltk
 
 # How to Run
